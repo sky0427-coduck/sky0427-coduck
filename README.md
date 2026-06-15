@@ -1,7 +1,7 @@
 # ![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&text=BLUSK%20Language%20Developer&animation=twinkling&fontColor=fff&fontSize=40)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=412991&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=sky0427-coduck&label=Profile%20Views&color=412991&style=flat-square" alt="Views" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -74,9 +74,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sky0427-coduck&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky0427-coduck&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
