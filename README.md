@@ -1,4 +1,4 @@
-# ![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&text=BLUSK%20Language%20Developer&animation=twinkling&fontColor=fff&fontSize=40)
+<img width="944" height="185" alt="image" src="https://github.com/user-attachments/assets/ec99243c-a734-4f47-8091-16d4464dddb3" /># ![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&text=BLUSK%20Language%20Developer&animation=twinkling&fontColor=fff&fontSize=40)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sky0427-coduck&label=Profile%20Views&color=412991&style=flat-square" alt="Views" />
@@ -21,6 +21,7 @@
 - **High/Low-Level Productivity:** 높은 추상화 수준의 부드러운 구문과 하드웨어 제어 능력을 동시에 제공
 - **Explicit Resource & Memory Management:** 안전하고 직관적인 메모리 관리 메커니즘과 명시적인 리소스 수명 제어
 - (추후 1.5버전부터 부트스트랩(셀프코드 바이너리 컴파일) 예정)
+- 링크 : https://github.com/sky0247-coduck/BLUSK
 
 ---
 
