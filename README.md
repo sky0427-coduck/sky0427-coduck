@@ -1,4 +1,4 @@
-<img width="944" height="185" alt="image" src="https://github.com/user-attachments/assets/ec99243c-a734-4f47-8091-16d4464dddb3" /># ![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&text=BLUSK%20Language%20Developer&animation=twinkling&fontColor=fff&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&text=BLUSK%20Language%20Developer&animation=twinkling&fontColor=fff&fontSize=40)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sky0427-coduck&label=Profile%20Views&color=412991&style=flat-square" alt="Views" />
