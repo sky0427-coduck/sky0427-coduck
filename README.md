@@ -21,7 +21,7 @@
 - **High/Low-Level Productivity:** 높은 추상화 수준의 부드러운 구문과 하드웨어 제어 능력을 동시에 제공
 - **Explicit Resource & Memory Management:** 안전하고 직관적인 메모리 관리 메커니즘과 명시적인 리소스 수명 제어
 - (추후 1.5버전부터 부트스트랩(셀프코드 바이너리 컴파일) 예정)
-- 링크 : https://github.com/sky0247-coduck/BLUSK
+- 링크 : https://github.com/sky0427-coduck/BLUSK
 
 ---
 
