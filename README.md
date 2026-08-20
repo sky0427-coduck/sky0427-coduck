@@ -72,6 +72,13 @@
   <img src="https://img.shields.io/badge/Cheat_Engine-C1272D?style=for-the-badge&logo=cheatengine&logoColor=white">
 </p>
 
+### 🖥️ OS
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-005A9C?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-202020?style=for-the-badge&logo=windows&logoColor=red">
+  <img src="https://img.shields.io/badge/RockyLinux-C1272D?style=for-the-badge&logo=RockyLinux&logoColor=white">
+</p>
+
 ---
 
 ## 📊 GitHub Stats
